@@ -1,2 +1,6 @@
 # Image-Caption-tfjs
 Image Caption using tfjs and tfjs+nodejs
+
+Im2Txt (Show and tell) image caption inference demo on tfjs 1.2.7 & nodejs
+
+This repository contains demo video showing inference ,saved_model,packaage.json . For post processing js file, contact me : vaibhavddit@gmail.com
